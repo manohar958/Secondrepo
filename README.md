@@ -1,5 +1,4 @@
-# Secondrepo
-This is my second Repository file
-*Hi Friends*
-
-*Good Night*
+#include<stdio.h>
+{
+printf("Hello World")
+}
